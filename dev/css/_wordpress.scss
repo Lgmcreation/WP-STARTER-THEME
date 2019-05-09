@@ -1,0 +1,26 @@
+// Gutenberg color options
+$colors: (
+	'black': #303030,
+	'gray':#d0d0d0,
+	'white':#ffffff,
+	'orange':#e94e1b,
+);
+
+@each $name, $color in $colors {
+    .has-#{$name}-color {
+        color: $color;
+    }
+    .has-#{$name}-background-color {
+        background-color: $color;
+    }
+}
+
+//WP BLOCKS
+.hack-gut {
+    .wp-block-gallery {
+        margin: 0;
+    }
+    .wp-block-cover, .wp-block-cover-image {
+        margin-bottom: 0;
+    }
+}

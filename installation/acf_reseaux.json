@@ -1,0 +1,153 @@
+[
+    {
+        "key": "group_59490d63b8df1",
+        "title": "Remplissez les Urls pour afficher vos icônes de réseaux sociaux",
+        "fields": [
+            {
+                "key": "field_59490d7cafb9d",
+                "label": "Facebook",
+                "name": "infos_facebook",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Facebook"
+            },
+            {
+                "key": "field_59490de3ff471",
+                "label": "Google +",
+                "name": "infos_google",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Google +"
+            },
+            {
+                "key": "field_59490dfa92d68",
+                "label": "Youtube",
+                "name": "infos_youtube",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Youtube"
+            },
+            {
+                "key": "field_59490f0292d6a",
+                "label": "Instagram",
+                "name": "infos_instagram",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Instagram"
+            },
+            {
+                "key": "field_59490f5092d6b",
+                "label": "Twitter",
+                "name": "infos_twitter",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Twitter"
+            },
+            {
+                "key": "field_59490f6f92d6c",
+                "label": "Pinterest",
+                "name": "infos_pinterest",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Pinterest"
+            },
+            {
+                "key": "field_59490f8a92d6d",
+                "label": "Viadeo",
+                "name": "infos_viadeo",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Viadeo"
+            },
+            {
+                "key": "field_59490f9f92d6e",
+                "label": "Linkedin",
+                "name": "infos_linkedin",
+                "type": "url",
+                "instructions": "Ne pas oublier http:\/\/ ou https:\/\/",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "Indiquer l'adresse de votre page Linkedin"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "acf-options-reseaux-sociaux"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]
