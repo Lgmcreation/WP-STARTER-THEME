@@ -18,5 +18,5 @@ require_once locate_template('/lib/client.php');         // Menu Dashboard Clien
 /**
 * Plugin includes
 */
-require_once locate_template('/lib/yoast.php');         // Menu Dashboard Client
+require_once locate_template('/lib/yoast.php');         // YOAST
 require_once locate_template('/lib/acf.php');         // ACF What else
