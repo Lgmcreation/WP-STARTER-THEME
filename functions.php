@@ -1,7 +1,7 @@
 <?php
 if ( !defined('ABSPATH') ) die();
 
-define('DEV_MODE', true)
+define('DEV_MODE', true);
 
 /**
 * Theme includes
