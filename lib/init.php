@@ -27,8 +27,6 @@ if ( !defined('ABSPATH') ) die();
 * TINYMCE
 */
 
-	/*EDITEUR TINYMCE PAR DEFAULT*/
-	add_filter( 'wp_default_editor', create_function('', 'return "tinymce";') );
 	
 	/*EDITEUR TINYMCE*/
 	function lgm_theme_custom_tinymce($init) {
